@@ -1,6 +1,3 @@
--------
-theme: jekyll-theme-hacker
--------
 
 # Frontend-Projects
 
